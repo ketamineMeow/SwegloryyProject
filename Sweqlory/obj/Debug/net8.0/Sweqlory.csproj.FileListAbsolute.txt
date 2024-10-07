@@ -1,0 +1,14 @@
+C:\Users\varya\source\repos\Sweqlory\bin\Debug\net8.0\Sweqlory.exe
+C:\Users\varya\source\repos\Sweqlory\bin\Debug\net8.0\Sweqlory.deps.json
+C:\Users\varya\source\repos\Sweqlory\bin\Debug\net8.0\Sweqlory.runtimeconfig.json
+C:\Users\varya\source\repos\Sweqlory\bin\Debug\net8.0\Sweqlory.dll
+C:\Users\varya\source\repos\Sweqlory\bin\Debug\net8.0\Sweqlory.pdb
+C:\Users\varya\source\repos\Sweqlory\obj\Debug\net8.0\Sweqlory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varya\source\repos\Sweqlory\obj\Debug\net8.0\Sweqlory.AssemblyInfoInputs.cache
+C:\Users\varya\source\repos\Sweqlory\obj\Debug\net8.0\Sweqlory.AssemblyInfo.cs
+C:\Users\varya\source\repos\Sweqlory\obj\Debug\net8.0\Sweqlory.csproj.CoreCompileInputs.cache
+C:\Users\varya\source\repos\Sweqlory\obj\Debug\net8.0\Sweqlory.dll
+C:\Users\varya\source\repos\Sweqlory\obj\Debug\net8.0\refint\Sweqlory.dll
+C:\Users\varya\source\repos\Sweqlory\obj\Debug\net8.0\Sweqlory.pdb
+C:\Users\varya\source\repos\Sweqlory\obj\Debug\net8.0\Sweqlory.genruntimeconfig.cache
+C:\Users\varya\source\repos\Sweqlory\obj\Debug\net8.0\ref\Sweqlory.dll
